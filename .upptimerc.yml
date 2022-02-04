@@ -1,16 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: xeron # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Toyomec Repuestos
+    url: https://toyomecrepuestos.com
+  - name: Detailing Bahia
+    url: https://www.detailingbahia.com
+  - name: Xeron Web
+    url: https://xeronweb.com
+  - name: Maria Guerrero
+    url: https://mariaguerrerodeco.com
+  - name: Upso
+    url: https://geccif.upso.edu.ar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
