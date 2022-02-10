@@ -4,18 +4,20 @@
     "url": "https://toyomecrepuestos.com",
     "icon": "https://favicons.githubusercontent.com/toyomecrepuestos.com",
     "slug": "toyomec-repuestos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 202,
     "timeDay": 222,
     "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 1
+    }
   },
   {
     "name": "Detailing Bahia",
@@ -40,9 +42,9 @@
     "url": "https://xeronweb.com",
     "icon": "https://favicons.githubusercontent.com/xeronweb.com",
     "slug": "xeron-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Maria Guerrero",
