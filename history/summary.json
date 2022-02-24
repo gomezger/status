@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 190,
-    "timeDay": 145,
-    "timeWeek": 173,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 186,
+    "timeDay": 97,
+    "timeWeek": 158,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2022-02-10": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2471,
-    "timeDay": 1339,
-    "timeWeek": 2120,
-    "timeMonth": 2471,
-    "timeYear": 2471,
+    "time": 2414,
+    "timeDay": 1121,
+    "timeWeek": 1999,
+    "timeMonth": 2414,
+    "timeYear": 2414,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 185,
-    "timeDay": 107,
-    "timeWeek": 169,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 182,
+    "timeDay": 116,
+    "timeWeek": 158,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2022-02-10": 21
     }
@@ -63,18 +63,19 @@
     "icon": "https://favicons.githubusercontent.com/mariaguerrerodeco.com",
     "slug": "maria-guerrero",
     "status": "down",
-    "uptime": "94.44%",
+    "uptime": "89.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.64%",
-    "uptimeMonth": "94.44%",
-    "uptimeYear": "94.44%",
+    "uptimeWeek": "71.38%",
+    "uptimeMonth": "89.50%",
+    "uptimeYear": "89.50%",
     "time": 266,
     "timeDay": 0,
-    "timeWeek": 285,
+    "timeWeek": 257,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-02-23": 73,
+      "2022-02-24": 71,
+      "2022-02-23": 1440,
       "2022-02-22": 1374
     }
   },
@@ -89,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 935,
-    "timeWeek": 795,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "time": 790,
+    "timeDay": 896,
+    "timeWeek": 819,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   }
 ]
