@@ -9,10 +9,10 @@ sites:
     url: https://www.detailingbahia.com
   - name: Xeron Web
     url: https://xeronweb.com
-  - name: Maria Guerrero
-    url: https://mariaguerrerodeco.com
   - name: Upso
     url: https://geccif.upso.edu.ar
+  - name: My Web
+    url: https://gergomez.tk
 
 assigness:
   - xeronweb
