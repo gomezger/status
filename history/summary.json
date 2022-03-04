@@ -4,10 +4,10 @@
     "url": "https://toyomecrepuestos.com",
     "icon": "https://favicons.githubusercontent.com/toyomecrepuestos.com",
     "slug": "toyomec-repuestos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 185,
@@ -16,6 +16,7 @@
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2022-03-04": 1,
       "2022-02-10": 22
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://xeronweb.com",
     "icon": "https://favicons.githubusercontent.com/xeronweb.com",
     "slug": "xeron-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -54,6 +55,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2022-02-10": 21
     }
   },
