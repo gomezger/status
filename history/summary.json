@@ -65,7 +65,7 @@
     "url": "https://geccif.upso.edu.ar",
     "icon": "https://favicons.githubusercontent.com/geccif.upso.edu.ar",
     "slug": "upso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
@@ -77,6 +77,7 @@
     "timeMonth": 815,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2022-03-23": 0,
       "2022-03-17": 60,
       "2022-03-15": 25
     }
@@ -87,11 +88,11 @@
     "icon": "https://favicons.githubusercontent.com/infovillarino.com",
     "slug": "info-villarino",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 375,
     "timeDay": 510,
     "timeWeek": 375,
