@@ -27,10 +27,10 @@
     "url": "https://www.detailingbahia.com",
     "icon": "https://favicons.githubusercontent.com/www.detailingbahia.com",
     "slug": "detailing-bahia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2359,
@@ -38,7 +38,9 @@
     "timeWeek": 2708,
     "timeMonth": 2573,
     "timeYear": 2359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 1
+    }
   },
   {
     "name": "Xeron Web",
@@ -67,11 +69,11 @@
     "icon": "https://favicons.githubusercontent.com/geccif.upso.edu.ar",
     "slug": "upso",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.31%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 832,
     "timeDay": 732,
     "timeWeek": 873,
@@ -113,9 +115,9 @@
     "url": "https://gergomez.tk",
     "icon": "https://favicons.githubusercontent.com/gergomez.tk",
     "slug": "my-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,6 +126,8 @@
     "timeWeek": 491,
     "timeMonth": 441,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   }
 ]
